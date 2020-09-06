@@ -1,3 +1,4 @@
+// implement createMenuData
 function createMenuData (data) {
   const result = []
   data.forEach(text => {
